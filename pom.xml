@@ -17,6 +17,8 @@
 	<name>springboot-digitalinnovationone</name>
 	<description>Projeto criado com base no bootcamp back-end carrefour</description>
 
+	<packaging>jar</packaging>
+
 	<properties>
 		<java.version>11</java.version>
 	</properties>
